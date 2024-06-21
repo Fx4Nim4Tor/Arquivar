@@ -1,0 +1,22 @@
+.btCalcular{
+    /* centralizar bottao*/
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    /*------------------*/
+    width: 100px;
+    height: 60; 
+}
+
+
+
+.divEscolhas{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+    width: 300px;
+    height: 90px;
+
+    border-radius: 10px;
+}
